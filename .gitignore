@@ -50,7 +50,8 @@ ggml-metal-embed.metal
 out/
 tmp/
 
-
 # Models
 
 models/*
+
+compile_commands.json
